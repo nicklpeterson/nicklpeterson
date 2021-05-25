@@ -18,7 +18,7 @@
 - :bookmark_tabs: [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
 - 😄 Pronouns: He/Him/His
 - 🏢 I'm currently working at **Lively Apps**
-- ⚙️ I use daily: `.js`, '.jsx', `.html`, `.css`, `.java`, `.py`
+- ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`, `.py`
 - 🌱 Currently learning all about **Statistical Modeling and ML**
 - :goggles: I love to Ski, Paddle, Bike, and Climb
 - 📫 Reach me: [nick.peterson@alumni.ubc.c](mailto:nick.peterson@alumni.ubc.ca)
