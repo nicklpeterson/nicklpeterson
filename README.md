@@ -12,7 +12,7 @@
 - :notes: [Ear Bender](https://github.com/nicklpeterson/EarBender): A Domain Specific Language for making music.
 - :running_woman: [Sprint Planner](https://github.com/nicklpeterson/SprintPlanner): A simple sprint planning board using React, Java, and Postgres.
 - :computer: [DNS LookUp Client](https://github.com/nicklpeterson/SimpleDNSLookupClient): A simple dns lookup client written in Java.
-- [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
+- :floppy_disk: [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
 
 ##### BIO
 - :bookmark_tabs: [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
