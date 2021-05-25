@@ -14,7 +14,6 @@
 - :computer: [DNS LookUp Client](https://github.com/nicklpeterson/SimpleDNSLookupClient): A simple dns lookup client written in Java.
 - :floppy_disk: [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
 - :paw_prints: [Tele-Vet](https://github.com/kaavyalakshmanan/tele-vet): An remote vet app using express, react, and MongoDB
-- 
 
 ##### BIO
 - :bookmark_tabs: [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
@@ -23,4 +22,4 @@
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`, `.py`
 - 🌱 Currently learning all about **Statistical Modeling and ML**
 - :goggles: I love to Ski, Paddle, Bike, and Climb
-- 📫 Reach me: [nick.peterson@alumni.ubc.c](mailto:nick.peterson@alumni.ubc.ca)
+- 📫 Reach me: [nick.peterson@alumni.ubc.ca](mailto:nick.peterson@alumni.ubc.ca)
