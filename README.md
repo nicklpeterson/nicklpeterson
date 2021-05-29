@@ -13,7 +13,7 @@
 - :running_woman: [Sprint Planner](https://github.com/nicklpeterson/SprintPlanner): A simple sprint planning board using React, Java, and Postgres.
 - :computer: [DNS LookUp Client](https://github.com/nicklpeterson/SimpleDNSLookupClient): A simple dns lookup client written in Java.
 - :floppy_disk: [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
-- :paw_prints: [Tele-Vet](https://github.com/kaavyalakshmanan/tele-vet): An remote vet app using express, react, and MongoDB
+- :paw_prints: [Tele-Vet](https://github.com/kaavyalakshmanan/tele-vet): A remote vet app using express, react, and MongoDB
 
 ##### BIO
 - :bookmark_tabs: [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
