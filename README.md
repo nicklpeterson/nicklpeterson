@@ -3,7 +3,6 @@
 #### I'm a 'soon-to-be' recent grad from the University of British Columbia
 
 ##### NOW
-- :chart: [confluence-faker](https://github.com/nicklpeterson/confluence-faker)
 - :mortar_board:: Finishing School
 - :partying_face: Planning my Wedding!!!!
 
