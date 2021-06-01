@@ -5,7 +5,7 @@
 ##### BIO
 - :bookmark_tabs: [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
 - 😄 Pronouns: He/Him/His
-- 🏢 I'm currently working at **Lively Apps**
+- 🏢 I'm currently working at [**Lively Apps**](https://livelyapps.com/)
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.java`, `.py`
 - 🌱 Currently learning all about **Statistical Modeling and ML**
 - :goggles: I love to Ski, Paddle, Bike, and Climb
