@@ -27,3 +27,4 @@
 ##### DEV
 - :floppy_disk: [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
 - 📝 [Wordpress Local](https://github.com/nicklpeterson/wordpress-local): A local wordpress instance.
+- :dart: [My Retail](https://github.com/nicklpeterson/myRetail): Coding assessment for a Software Engineer position at Target. This is an awesome starter template for a Spring Boot API with MongoDB and JWT based security.
