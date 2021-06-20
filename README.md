@@ -16,7 +16,7 @@
 - :partying_face: Planning a wedding with Taylor!!!!
 
 ##### PROJECTS
-- :chart: [confluence-faker](https://github.com/nicklpeterson/confluence-faker): (in progress) A tool that generates random comments, pages, and blog posts for confluence.
+- :chart: [Confluence Faker](https://github.com/nicklpeterson/confluence-faker): (in progress) A tool that generates random comments, pages, and blog posts for confluence.
 - :iphone: [Gatsby Typescript Jest Starter](https://github.com/nicklpeterson/gatsby-typescript-jest-starter): A little website template.
 - :microscope: [Code Journey](https://github.com/nicklpeterson/CodeJourney): Visualize JavaScript code execution using dynamic analysis
 - :notes: [Ear Bender](https://github.com/nicklpeterson/EarBender): A Domain Specific Language for making music.
