@@ -13,7 +13,7 @@
 
 ##### NOW
 - :mortar_board:: Finishing School
-- :partying_face: Planning my Wedding!!!!
+- :partying_face: Planning a wedding with Taylor!!!!
 
 ##### PROJECTS
 - :chart: [confluence-faker](https://github.com/nicklpeterson/confluence-faker): (in progress) A tool that generates random comments, pages, and blog posts for confluence.
