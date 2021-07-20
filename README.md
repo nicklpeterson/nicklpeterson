@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a 'soon-to-be' recent grad from the University of British Columbia
+#### I'm a recent grad from the University of British Columbia
 
 ##### BIO
 - :bookmark_tabs: [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
