@@ -12,7 +12,6 @@
 - 📫 Reach me: [nick.peterson@alumni.ubc.ca](mailto:nick.peterson@alumni.ubc.ca)
 
 ##### NOW
-- :mortar_board:: Finishing School
 - :partying_face: Planning a wedding with Taylor!!!!
 
 ##### PROJECTS
