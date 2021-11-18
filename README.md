@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-#### I'm a recent grad from the University of British Columbia
+#### I'm a Software Engineer at [**Target**](https://github.com/target) and recent grad from the University of British Columbia
 
 ##### BIO
-- :bookmark_tabs: &nbsp; [resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
+- :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
 - 😄 &nbsp; Pronouns: He/Him/His
-- 🏢 &nbsp; Working at [**Target**](https://github.com/target)
 - ⚙️ &nbsp; I use daily: `.js`, `.java`, `.kt`, `.go`
 - 🌱 &nbsp; Currently learning all about **Statistical Modeling and ML**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
