@@ -6,7 +6,7 @@
 - :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
 - 😄 &nbsp; Pronouns: He/Him/His
 - ⚙️ &nbsp; I use daily: `.js`, `.java`, `.kt`, `.go`
-- 🌱 &nbsp; Currently learning all about **Statistical Modeling and ML**
+- 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
 - 📫 &nbsp; Reach me: [nick.peterson@target.com](mailto:nick.peterson@target.com)
 
