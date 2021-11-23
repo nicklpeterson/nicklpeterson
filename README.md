@@ -11,7 +11,7 @@
 - 📫 &nbsp; Reach me: [nick.peterson@target.com](mailto:nick.peterson@target.com)
 
 ##### PROJECT ARCHIVE
-- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): (In Progress) A webapp for downloading static tiles in bulk from Mapbox.
+- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for The Center for Global Environmental Education (CGEE) at Hamline University.
 - :floppy_disk: &nbsp; [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
 - :floppy_disk: &nbsp; [Adminer MongoDB Playground](https://github.com/nicklpeterson/adminer-mongodb-playground): Just like the Postgres playground above, this is a docker container for playing, testing, or developing with a MongoDB database.
 - 📝  &nbsp; [Wordpress Local](https://github.com/nicklpeterson/wordpress-local): A local wordpress instance.
