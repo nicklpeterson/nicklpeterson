@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer at [**Target**](https://github.com/target) and recent grad from the University of British Columbia
+#### I'm a Software Engineer at [**Target**](https://github.com/target) and graduate of the University of British Columbia
 
 ##### BIO
 - :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
