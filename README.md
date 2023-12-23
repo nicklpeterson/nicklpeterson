@@ -11,7 +11,7 @@
 - :floppy_disk: &nbsp; Contributing to [Target](https://github.com/target) and [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/)
 
 ##### Side Projects
-- :floppy_disk: &nbsp; [Githubhx](https://githubhx.com/nicklpeterson/adminer-postgres): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
+- :floppy_disk: &nbsp; [Githubhx](https://github.com/nicklpeterson/githubhx): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
 - :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
 
 <!--
