@@ -2,7 +2,7 @@
 
 #### I'm a Senior Software Engineer at [**Target**](https://github.com/target) and graduate of the University of British Columbia
 
-##### BIO
+##### Bio
 - :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/resume/blob/main/npeterson.pdf)
 - 😄 &nbsp; Pronouns: He/Him/His
 - 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
@@ -10,7 +10,7 @@
 - 📫 &nbsp; Reach me: [nick.peterson@target.com](mailto:nick.peterson@target.com)
 - :floppy_disk: &nbsp; Contributing to [Target](https://github.com/target) and [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/)
 
-##### On the Side
+##### Side Projects
 - :floppy_disk: &nbsp; [Githubhx](https://githubhx.com/nicklpeterson/adminer-postgres): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
 - :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
 
