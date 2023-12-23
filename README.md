@@ -24,13 +24,6 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
 </div>
 
-##### PROJECT ARCHIVE
-- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University.
-- :floppy_disk: &nbsp; [Adminer Postgres Playground](https://github.com/nicklpeterson/adminer-postgres): A little docker container for playing, testing, or developing with a postgres database.
-- :floppy_disk: &nbsp; [Adminer MongoDB Playground](https://github.com/nicklpeterson/adminer-mongodb-playground): Just like the Postgres playground above, this is a docker container for playing, testing, or developing with a MongoDB database.
-- :dart: &nbsp; [My Retail](https://github.com/nicklpeterson/myRetail): Coding assessment for a Software Engineer position at Target. This is a solid starter template for a Spring Boot API with MongoDB and JWT based security.
-<!-- - :microscope: &nbsp; [Code Journey](https://github.com/nicklpeterson/CodeJourney): Visualize JavaScript code execution using dynamic analysis
-- :notes: &nbsp; [Ear Bender](https://github.com/nicklpeterson/EarBender): A Domain Specific Language for making music.
-- :running_woman: &nbsp; [Sprint Planner](https://github.com/nicklpeterson/SprintPlanner): A simple sprint planning board using React, Java, and Postgres.
-- :computer: &nbsp; [DNS LookUp Client](https://github.com/nicklpeterson/SimpleDNSLookupClient): A simple dns lookup client written in Java.
-- :paw_prints: &nbsp; [Tele-Vet](https://github.com/kaavyalakshmanan/tele-vet): A remote vet app using express, react, and MongoDB -->
+##### On the Side
+- :floppy_disk: &nbsp; [Githubhx](https://githubhx.com/nicklpeterson/adminer-postgres): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
+- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
