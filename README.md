@@ -10,7 +10,12 @@
 - 📫 &nbsp; Reach me: [nick.peterson@target.com](mailto:nick.peterson@target.com)
 - :floppy_disk: &nbsp; Contributing to [Target](https://github.com/target) and [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/)
 
-##### I use daily
+##### On the Side
+- :floppy_disk: &nbsp; [Githubhx](https://githubhx.com/nicklpeterson/adminer-postgres): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
+- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
+
+<!--
+##### Tech I use daily
 <div>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
@@ -22,8 +27,4 @@
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
-</div>
-
-##### On the Side
-- :floppy_disk: &nbsp; [Githubhx](https://githubhx.com/nicklpeterson/adminer-postgres): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
-- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
+</div> -->
