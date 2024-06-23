@@ -3,7 +3,7 @@
 #### I'm a Senior Software Engineer at [**Target**](https://github.com/target) and graduate of the University of British Columbia
 
 ##### Bio
-- :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/resume/blob/master/resume.pdf)
+- :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/resume/blob/master/nick-peterson.pdf)
 - 😄 &nbsp; Pronouns: He/Him/His
 - 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
