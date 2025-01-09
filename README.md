@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-#### I'm a Senior Software Engineer at [**Target**](https://github.com/target) and graduate of the University of British Columbia
+#### I'm a Lead Software Engineer at [**Target**](https://github.com/target) and graduate of the University of British Columbia
 
 ##### Bio
 - :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/json-resume/blob/main/nick-peterson.pdf)
 - 😄 &nbsp; Pronouns: He/Him/His
 - 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
-- 📫 &nbsp; Reach me: [nick.peterson@target.com](mailto:nick.peterson@target.com)
+- 📫 &nbsp; Reach me: [nick.peterson@alumni.ubc.ca](mailto:nick.peterson@alumni.ubc.ca)
 - :floppy_disk: &nbsp; Contributing to [Target](https://github.com/target) and [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/)
 
 ##### Side Projects
