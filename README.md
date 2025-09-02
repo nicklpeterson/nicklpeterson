@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Lead Software Engineer at [**Target**](https://github.com/target) and graduate of the University of British Columbia
+#### I'm a Senior Software Engineer at [**SmartThings**](https://www.samsung.com/us/smartthings/) and graduate of the University of British Columbia
 
 ##### Bio
 - :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/json-resume/blob/main/nick-peterson.pdf)
