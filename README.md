@@ -8,7 +8,6 @@
 - 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
 - 📫 &nbsp; Reach me: [nick.peterson@alumni.ubc.ca](mailto:nick.peterson@alumni.ubc.ca)
-- :floppy_disk: &nbsp; Contributing to [Target](https://github.com/target) and [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/)
 
 ##### Side Projects
 - :octocat: &nbsp; [Githubhx](https://github.com/nicklpeterson/githubhx): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
