@@ -5,7 +5,7 @@
 ##### Bio
 - :bookmark_tabs: &nbsp; [Resume](https://github.com/nicklpeterson/json-resume/blob/main/nick-peterson.pdf)
 - 😄 &nbsp; Pronouns: He/Him/His
-- 🌱 &nbsp; Currently learning all about **Designing for reliability and in distributed systems**
+- 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
 - 📫 &nbsp; Reach me: [nick.peterson@smartthings.com](mailto:nick.peterson@smartthings.com)
 
