@@ -10,6 +10,7 @@
 - 📫 &nbsp; Reach me: [nick.peterson@smartthings.com](mailto:nick.peterson@smartthings.com)
 
 ##### Side Projects
+- 🤖 [ZSH Chat GPT](https://github.com/nicklpeterson/zsh-chat-gpt/blob/main/README.md): Command hints from Chat GPT in your terminal with one simple shell script. 
 - :octocat: &nbsp; [Githubhx](https://github.com/nicklpeterson/githubhx): Quickly browse the commit history of any file in github by replacing "github.com" with "githubhx.com"
 - :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
 
