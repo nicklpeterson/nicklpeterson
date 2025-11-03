@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Senior Software Engineer at [**SmartThings**](https://www.samsung.com/us/smartthings/) and graduate of the University of British Columbia
+#### I'm a Senior Software Engineer at [**Samsung SmartThings**](https://www.samsung.com/us/smartthings/) and graduate of the University of British Columbia
 
 ##### Bio
 - :bookmark_tabs: &nbsp; [Resume](https://registry.jsonresume.org/nicklpeterson?theme=government-standard)
