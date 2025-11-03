@@ -9,9 +9,8 @@
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
 - 📫 &nbsp; Reach me: [nick.peterson@smartthings.com](mailto:nick.peterson@smartthings.com)
 
-##### Side Projects
+##### Current Side Projects
 - 🤖 [ZSH Chat GPT](https://github.com/nicklpeterson/zsh-chat-gpt/blob/main/README.md): Command hints from Chat GPT in your terminal with one simple shell script. 
-- :earth_africa: &nbsp; [Mapbox Static Tiles](https://github.com/nicklpeterson/mapbox-tiles): A webapp for downloading static tiles in bulk from Mapbox. Made for [The Center for Global Environmental Education](https://www.hamline.edu/education/cgee/) at Hamline University
 
 <!--
 ##### Tech I use daily
