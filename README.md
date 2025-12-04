@@ -11,7 +11,7 @@
 
 ##### Current Side Projects
 - 🤖 [ZSH Chat GPT](https://github.com/nicklpeterson/zsh-chat-gpt/blob/main/README.md): Command hints from Chat GPT in your terminal with one simple shell script. 
-
+- :page_with_curl: [My Resume](https://github.com/nicklpeterson/json-resume): A nice resume template built css and html, deployed on Cloudflare pages. 
 <!--
 ##### Tech I use daily
 <div>
