@@ -3,7 +3,7 @@
 #### I'm a Senior Software Engineer at [**Samsung SmartThings**](https://www.samsung.com/us/smartthings/) and graduate of the University of British Columbia
 
 ##### Bio
-- :bookmark_tabs: &nbsp; [Resume](https://registry.jsonresume.org/nicklpeterson?theme=government-standard)
+- :bookmark_tabs: &nbsp; https://resume.nickpeterson.me/
 - 😄 &nbsp; Pronouns: He/Him/His
 - 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
