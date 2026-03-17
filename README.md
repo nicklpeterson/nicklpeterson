@@ -7,7 +7,7 @@
 - 😄 &nbsp; Pronouns: He/Him/His
 - 🌱 &nbsp; Currently learning all about **Software Design and Analysis**
 - :goggles: &nbsp; I love to Ski, Paddle, Bike, and Climb
-- 📫 &nbsp; Reach me: [nick.peterson@smartthings.com](mailto:nick.peterson@smartthings.com)
+- 📫 &nbsp; Reach me: [nick.peterson@target.com](mailto:nick.peterson@target.com)
 
 ##### Current Side Projects
 - 🤖 [ZSH Chat GPT](https://github.com/nicklpeterson/zsh-chat-gpt/blob/main/README.md): Command hints from Chat GPT in your terminal with one simple shell script. 
