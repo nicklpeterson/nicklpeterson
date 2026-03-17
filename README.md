@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Senior Software Engineer at [**Samsung SmartThings**](https://www.samsung.com/us/smartthings/) and graduate of the University of British Columbia
+#### I'm a Lead Cybersecurity Engineer at [**Target**](https://www.target.com/) and graduate of the University of British Columbia
 
 ##### Bio
 - :bookmark_tabs: &nbsp; https://resume.nickpeterson.me/
